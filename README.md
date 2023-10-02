@@ -2,8 +2,10 @@
 
 Welcome to Wallpaper Compose, an Android app that allows you to discover and explore a stunning collection of wallpapers. This app is built using modern Android development technologies and follows the MVVM architecture pattern.
 
-![Screenshot 1](screenshots/Screenshot_20231002_180445.png)
-![Screenshot 2](screenshots/Screenshot_20231002_180527.png)
+<p align="center">
+  <img src="screenshots/Screenshot_20231002_180445.png" alt="Screenshot 1" width="200"/>
+  <img src="screenshots/Screenshot_20231002_180527.png" alt="Screenshot 2" width="200"/>
+</p>
 
 ## Features
 
@@ -13,8 +15,10 @@ Welcome to Wallpaper Compose, an Android app that allows you to discover and exp
 - Like your favorite wallpapers.
 - Enjoy a smooth and responsive user interface built with Jetpack Compose.
 
-![Screenshot 3](screenshots/Screenshot_20231002_180542.png)
-![Screenshot 4](screenshots/Screenshot_20231002_180604.png)
+<p align="center">
+  <img src="screenshots/Screenshot_20231002_180542.png" alt="Screenshot 3" width="200"/>
+  <img src="screenshots/Screenshot_20231002_180604.png" alt="Screenshot 4" width="200"/>
+</p>
 
 ## Tech Stack
 
@@ -27,8 +31,10 @@ This project is built with the following technologies:
 - [Pexels API](https://www.pexels.com/api/documentation/) - Provides access to a vast collection of high-quality photos and wallpapers.
 - MVVM (Model-View-ViewModel) - Architecture pattern for separation of concerns and maintainability.
 
-![Screenshot 5](screenshots/Screenshot_20231002_180621.png)
-![Screenshot 6](screenshots/Screenshot_20231002_180713.png)
+<p align="center">
+  <img src="screenshots/Screenshot_20231002_180621.png" alt="Screenshot 5" width="200"/>
+  <img src="screenshots/Screenshot_20231002_180713.png" alt="Screenshot 6" width="200"/>
+</p>
 
 ## Getting Started
 
@@ -38,6 +44,3 @@ To run this app locally, you will need Android Studio and an Android emulator or
 
    ```bash
    git clone https://github.com/KhubaibKhan4/Wallpaper-Compose.git
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
