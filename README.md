@@ -2,7 +2,7 @@
 
 Welcome to Wallpaper Compose, an Android app that allows you to discover and explore a stunning collection of wallpapers. This app is built using modern Android development technologies and follows the MVVM architecture pattern.
 
-<p align="center">
+<p align="left">
   <img src="screenshots/Screenshot_20231002_180445.png" alt="Screenshot 1" width="200"/>
   <img src="screenshots/Screenshot_20231002_180527.png" alt="Screenshot 2" width="200"/>
 </p>
@@ -15,7 +15,7 @@ Welcome to Wallpaper Compose, an Android app that allows you to discover and exp
 - Like your favorite wallpapers.
 - Enjoy a smooth and responsive user interface built with Jetpack Compose.
 
-<p align="center">
+<p align="left">
   <img src="screenshots/Screenshot_20231002_180542.png" alt="Screenshot 3" width="200"/>
   <img src="screenshots/Screenshot_20231002_180604.png" alt="Screenshot 4" width="200"/>
 </p>
