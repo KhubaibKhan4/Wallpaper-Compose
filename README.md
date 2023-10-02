@@ -31,7 +31,7 @@ This project is built with the following technologies:
 - [Pexels API](https://www.pexels.com/api/documentation/) - Provides access to a vast collection of high-quality photos and wallpapers.
 - MVVM (Model-View-ViewModel) - Architecture pattern for separation of concerns and maintainability.
 
-<p align="center">
+<p align="left">
   <img src="screenshots/Screenshot_20231002_180621.png" alt="Screenshot 5" width="200"/>
   <img src="screenshots/Screenshot_20231002_180713.png" alt="Screenshot 6" width="200"/>
 </p>
